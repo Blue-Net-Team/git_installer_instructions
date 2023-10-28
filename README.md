@@ -17,5 +17,7 @@
 #### 其他相关链接
 ##### vscode相关配置git教程，先看懂视频再弄这个
 https://blog.csdn.net/qq_42661800/article/details/121986078
+##### vscode配置keil5教程
+https://blog.csdn.net/weixin_43576926/article/details/107736692
 
 此安装程序截止2023.10.27
