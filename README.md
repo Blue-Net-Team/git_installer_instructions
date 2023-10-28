@@ -9,7 +9,7 @@
 
 #### 视频链接
 安装后看完视频马上就会使用这个代码网盘
-【gitee(码云)的注册和代码提交【手把手】】 https://www.bilibili.com/video/BV1hf4y1W7yT/?p=12&share_source=copy_web&vd_source=3fe6d67d3a41f2eabed6749bc39e2427
+【gitee(码云)的注册和代码提交【手把手】】 https://www.bilibili.com/video/BV1hf4y1W7yT/?share_source=copy_web&vd_source=3fe6d67d3a41f2eabed6749bc39e2427
 
 多人远程协作嘎嘎好用
 再也不用本地备份很多代码了
