@@ -1,11 +1,13 @@
 # git安装程序，刚进必看
 
 #### 安装教程
+##### 先点击右上角的橙色按钮，下载文件到本地
+
 ##### 第一、Git-2.42.0.2-64-bit
 
-##### 第二、TortoiseGit-LanguagePack-2.15.0.0-64bit-zh_CN（简体中文翻译包）
+##### 第二、TortoiseGit-2.15.0.0-64bit
 
-##### 第三、TortoiseGit-2.15.0.0-64bit
+##### 第三、TortoiseGit-LanguagePack-2.15.0.0-64bit-zh_CN（简体中文翻译包）
 
 #### 视频链接
 安装后看完视频马上就会使用这个代码网盘
