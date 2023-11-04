@@ -8,6 +8,7 @@
 ##### 第二、TortoiseGit-2.15.0.0-64bit
 
 ##### 第三、TortoiseGit-LanguagePack-2.15.0.0-64bit-zh_CN（简体中文翻译包）
+然后在Tortoise的settings应用程序里把语言改成中文即可
 
 #### 视频链接
 安装后看完视频马上就会使用这个代码网盘
